@@ -1,0 +1,16 @@
+{
+"companyName": "Unagi",
+"productName": "DinoUnagi",
+"productVersion": "0.1",
+"dataUrl": "Unagi WEBGL.data.unityweb",
+"wasmCodeUrl": "Unagi WEBGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Unagi WEBGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
